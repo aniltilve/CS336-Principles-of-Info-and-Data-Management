@@ -1,5 +1,5 @@
 # CS336-Final-Project
-This is my final project for my Principles of Info and Data Management class. It was developed in collaboration with two other classmates (whose names will be omitted from this readme for privacy reasons).
+This is my final project for my Principles of Info and Data Management class. It was developed in collaboration with Grace Perez and Duncan Graham.
 
 ## Project Description
 
