@@ -1,5 +1,5 @@
 # CS336-Final-Project
-This is my final project for my Principles of Info and Data Management class. It was developed in collaboration with Grace Perez and Duncan Graham.
+This is my final project for my Principles of Info and Data Management class. It was developed in collaboration with my classmates Grace and Duncan.
 
 ## Project Description
 
@@ -11,4 +11,4 @@ The project simulates a rideshare system (think Uber) within the confines of the
 
 ## Project Implementation
 
-This project is written using Java Server Pages (JSP). The data is stored on a MySQL database. The website is hosted on an Amazon Web Services (AWS) server.
+This project is written using Java Server Pages (JSP). The data is stored on a MySQL database. Apache Tomcat is used as a web container. The website is hosted using Amazon Web Services (AWS).
